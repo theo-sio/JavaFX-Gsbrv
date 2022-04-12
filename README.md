@@ -5,7 +5,7 @@
 Gsb-rv 
 ========================
 
-GSB Rapports Visite - module Délégué Régional – par [@theo-sio](https://github.com/theo-sio)
+GSB Rapports Visite - module Délégué Régional 
 
 
 ## Application de bureau de suivi des rapports de visite.
