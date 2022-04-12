@@ -25,15 +25,3 @@ GSB Rapports Visite - module Délégué Régional – par [@theo-sio](https://gi
   * [netbeans 12](https://netbeans.apache.org/)
 
 
-### Documentation
-
-  * [Documentation utilisateur](docs/Documentation-Utilisateur.pdf)
-  * [Documentation technique](docs/Documentation-Technique.pdf)
-
-### Contexte
-
-1. [GSB - Fiche descriptive](docs/contexte/01-GSB-AppliRV-FicheDescriptive.pdf)
-2. [GSB - Cas d'utilisation](docs/contexte/02-GSB-AppliRV-DR-UC.pdf)
-3. [GSB - Modèle Entité-Association](docs/contexte/03-GSB-AppliRV-MEA.pdf)
-4. [GSB - Cahier des charges](docs/contexte/04-GSB-AppliRV-CahierDesCharges.pdf)
-
